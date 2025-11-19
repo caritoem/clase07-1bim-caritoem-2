@@ -43,6 +43,7 @@ public class Ejemplo10 {
         }
                 
         System.out.printf("%s\n", cadena);
-        
+        // se imprime valores en el 9 hasta que se acabe el ciclo mientras que en el 10 se conectan los valores 
+        //en cada cadena hasta que al final se presenta 
     }
 }
