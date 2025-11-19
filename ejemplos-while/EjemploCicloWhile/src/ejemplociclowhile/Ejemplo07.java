@@ -47,6 +47,9 @@ public class Ejemplo07 {
 
         promedio_final = suma_total / contador;
         System.out.printf("El promedio final es %.2f\n", promedio_final);
-
+       // en el ejemplo a comparacion del anterior esl while bandera y el while
+       //bandera== true son lo mismo si no que la legibilidad y dentro de la 
+       // ejecucion de este se elimina el condicional donde se dice que la nota cambia si 
+       // pasa el limite y nos deja poner valores que queramos 
     }
 }
